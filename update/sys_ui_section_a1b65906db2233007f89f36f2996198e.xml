@@ -1,16 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="" section_id="a1b65906db2233007f89f36f2996198e" sys_domain="global" table="x_376260_marketing_events_table" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>name</element>
-            <position>1</position>
+            <element>.begin_split</element>
+            <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-11 09:03:53</sys_created_on>
-            <sys_id>eaa99186db2233007f89f36f29961945</sys_id>
+            <sys_created_on>2019-07-11 09:37:41</sys_created_on>
+            <sys_id>2161218adb2233007f89f36f299619cc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_376260_marketing_events_table" sys_domain="global" view="Default view">a1b65906db2233007f89f36f2996198e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-11 09:03:53</sys_updated_on>
+            <sys_updated_on>2019-07-11 09:37:41</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-11 09:37:41</sys_created_on>
+            <sys_id>a161218adb2233007f89f36f299619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_376260_marketing_events_table" sys_domain="global" view="Default view">a1b65906db2233007f89f36f2996198e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-11 09:37:41</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,85 +32,113 @@
             <element>event_type</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-11 09:03:53</sys_created_on>
-            <sys_id>baa95986db2233007f89f36f299619af</sys_id>
+            <sys_created_on>2019-07-11 09:37:41</sys_created_on>
+            <sys_id>2561218adb2233007f89f36f299619cc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_376260_marketing_events_table" sys_domain="global" view="Default view">a1b65906db2233007f89f36f2996198e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-11 09:03:53</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>location</element>
-            <position>3</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-11 09:03:53</sys_created_on>
-            <sys_id>3aa95986db2233007f89f36f299619b6</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_376260_marketing_events_table" sys_domain="global" view="Default view">a1b65906db2233007f89f36f2996198e</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-11 09:03:53</sys_updated_on>
+            <sys_updated_on>2019-07-11 09:37:41</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sponsor</element>
-            <position>4</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-11 09:03:54</sys_created_on>
-            <sys_id>72a95986db2233007f89f36f299619ca</sys_id>
+            <sys_created_on>2019-07-11 09:37:41</sys_created_on>
+            <sys_id>a561218adb2233007f89f36f299619cc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_376260_marketing_events_table" sys_domain="global" view="Default view">a1b65906db2233007f89f36f2996198e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-11 09:03:54</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>start_date</element>
-            <position>5</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-11 09:03:54</sys_created_on>
-            <sys_id>f2a95986db2233007f89f36f299619d1</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_376260_marketing_events_table" sys_domain="global" view="Default view">a1b65906db2233007f89f36f2996198e</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-11 09:03:54</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>end_date</element>
-            <position>6</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-11 09:03:54</sys_created_on>
-            <sys_id>76a95986db2233007f89f36f299619d8</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_376260_marketing_events_table" sys_domain="global" view="Default view">a1b65906db2233007f89f36f2996198e</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-11 09:03:54</sys_updated_on>
+            <sys_updated_on>2019-07-11 09:37:41</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>budget</element>
-            <position>7</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-11 09:03:54</sys_created_on>
-            <sys_id>7aa95986db2233007f89f36f299619df</sys_id>
+            <sys_created_on>2019-07-11 09:37:41</sys_created_on>
+            <sys_id>2961218adb2233007f89f36f299619cc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_376260_marketing_events_table" sys_domain="global" view="Default view">a1b65906db2233007f89f36f2996198e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-11 09:03:54</sys_updated_on>
+            <sys_updated_on>2019-07-11 09:37:41</sys_updated_on>
             <sys_user/>
             <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-11 09:37:41</sys_created_on>
+            <sys_id>a961218adb2233007f89f36f299619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_376260_marketing_events_table" sys_domain="global" view="Default view">a1b65906db2233007f89f36f2996198e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-11 09:37:41</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>location</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-11 09:37:41</sys_created_on>
+            <sys_id>2d61218adb2233007f89f36f299619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_376260_marketing_events_table" sys_domain="global" view="Default view">a1b65906db2233007f89f36f2996198e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-11 09:37:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>start_date</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-11 09:37:41</sys_created_on>
+            <sys_id>ad61218adb2233007f89f36f299619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_376260_marketing_events_table" sys_domain="global" view="Default view">a1b65906db2233007f89f36f2996198e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-11 09:37:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>end_date</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-11 09:37:41</sys_created_on>
+            <sys_id>2161218adb2233007f89f36f299619cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_376260_marketing_events_table" sys_domain="global" view="Default view">a1b65906db2233007f89f36f2996198e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-11 09:37:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-11 09:37:41</sys_created_on>
+            <sys_id>a161218adb2233007f89f36f299619cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_376260_marketing_events_table" sys_domain="global" view="Default view">a1b65906db2233007f89f36f2996198e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-11 09:37:41</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
